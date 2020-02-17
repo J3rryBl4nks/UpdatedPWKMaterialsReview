@@ -20,3 +20,9 @@ The password cracking materials teach the wrong approach with the wrong tools in
 
 ### Active Directory ###
 The AD material is very good.
+
+### Powershell Empire ###
+Using the old Empire, but the foundations and ideas are great!
+
+### Putting it together exercise ###
+A fascinating exercise with great takeways.
