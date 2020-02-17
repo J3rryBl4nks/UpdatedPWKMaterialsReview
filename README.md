@@ -26,3 +26,6 @@ Using the old Empire, but the foundations and ideas are great!
 
 ### Putting it together exercise ###
 A fascinating exercise with great takeways.
+
+# Recommendations #
+For current OSCP students, this update is fantastic. For those who already have their OSCP I would pass on getting the new materials unless you want to pay that money for a consolidated AD overview. You can get the AD materials elsewhere for free.
