@@ -16,3 +16,5 @@ The refresh here was much needed, and the materials are better, but still incomp
 ### Password Cracking ###
 The password cracking materials teach the wrong approach with the wrong tools in my opinion.
 
+### Active Directory ###
+The AD material is very good.
