@@ -1,7 +1,7 @@
 # UpdatedPWKMaterialsReview
 Review of the Updated PWK Materials
 
-### This won't be an exhaustive review of the matierals, but an overview of what I found to be significant changes ###
+### This won't be an exhaustive review of the materials, but an overview of what I found to be significant changes ###
 
 I purchased the update to the OSCP Course materials and Videos, I will be reviewing the updates from a high level (not posting any
 information that would be considered a breach of the NDA).
